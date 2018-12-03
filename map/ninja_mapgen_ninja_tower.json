@@ -960,12 +960,11 @@
       },
       "furniture": {
         "#": "f_tatami",
-        "&": "f_tatami",
+        "&": "f_brazier",
+        "Y": "f_brazier",
         "@": "f_tatami"
       },
       "traps": {
-        "&": "tr_brazier",
-        "Y": "tr_brazier"
       },
       "fields": {
         "&": { "field": "fd_fire", "density": 1, "age": 1 },
@@ -1093,11 +1092,10 @@
       },
       "furniture": {
         "#": "f_tatami",
-        "&": "f_tatami",
+        "&": "f_brazier",
         "@": "f_tatami"
       },
       "traps": {
-        "&": "tr_brazier",
         "^": "tr_caltrops"
       },
       "fields": {

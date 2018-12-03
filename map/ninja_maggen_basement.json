@@ -65,7 +65,6 @@
       "furniture": {
         "#": "f_tatami",
         "$": "f_floor_canvas",
-        "&": "f_tatami",
         "@": "f_tatami",
         "]": "f_bookcase",
         "_": "f_table",
@@ -74,15 +73,15 @@
         "f": "f_fridge",
         "g": "f_oven",
         "h": "f_chair",
-        "k": "f_sink"
+        "k": "f_sink",
+        "&": "f_brazier",
+        "Y": "f_brazier",
+        "y": "f_brazier"
       },
       "traps": {
-        "&": "tr_brazier",
-        "Y": "tr_brazier",
         "[": "tr_shotgun_2",
         "^": "tr_caltrops",
-        "t": "tr_shotgun_2",
-        "y": "tr_brazier"
+        "t": "tr_shotgun_2"
       },
       "fields": {
         "&": { "field": "fd_fire", "density": 1, "age": 1 },

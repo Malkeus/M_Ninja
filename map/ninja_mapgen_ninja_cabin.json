@@ -65,10 +65,10 @@
         "O": "f_oven",
         "S": "f_sink",
         "a": "f_table",
+        "&": "f_brazier",
         "b": "f_bench"
       },
       "traps": {
-        "&": "tr_brazier",
         "*": "tr_landmine_buried",
         ">": "tr_shotgun_2",
         "^": "tr_caltrops",

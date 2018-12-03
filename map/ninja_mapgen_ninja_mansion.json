@@ -115,10 +115,10 @@
         "~": "t_water_dp"
       },
       "furniture": {
+        "&": "f_brazier",
         "M": "f_mannequin"
       },
       "traps": {
-        "&": "tr_brazier",
         "O": "tr_spike_pit"
       },
       "fields": {
@@ -191,10 +191,10 @@
       },
       "furniture": {
         "#": "f_tatami",
+        "&": "f_brazier",
         "@": "f_tatami"
       },
       "traps": {
-        "&": "tr_brazier",
         "O": "tr_spike_pit"
       },
       "fields": {
@@ -532,10 +532,10 @@
         "[": "f_bookcase",
         "]": "f_rack",
         "b": "f_table",
+        "&": "f_brazier",
         "d": "f_dresser"
       },
       "traps": {
-        "&": "tr_brazier",
         "O": "tr_spike_pit",
         "^": "tr_caltrops",
         "t": "tr_shotgun_2"
@@ -860,10 +860,10 @@
       "furniture": {
         "#": "f_tatami",
         "h": "f_chair",
+        "&": "f_brazier",
         "t": "f_table"
       },
       "traps": {
-        "&": "tr_brazier"
       },
       "npcs": {
         "@": { "class": "ninja_npc_high_ninja" }
