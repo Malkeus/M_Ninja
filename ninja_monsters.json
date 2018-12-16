@@ -45,7 +45,7 @@
     "speed": 100,
     "material": [ "powder" ],
     "symbol": "@",
-    "color": "gray",
+    "color": "dark_gray",
     "aggression": 0,
     "morale": 100,
     "melee_skill": 0,
